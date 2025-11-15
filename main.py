@@ -8,7 +8,7 @@ Created on Sat Nov 15 14:22:17 2025
 
         
 #import google.generativeai as genai
-#genai.configure(api_key="AIzaSyCzbFWBtaqoInWhzzrLIGDPKk7mkHxuR6o")
+#genai.configure(api_key="<your_api_key>")
 
 #for m in genai.list_models():
  #   print(m.name)
@@ -93,6 +93,7 @@ if user_prompt:
 
 
     
+
 
 
 
