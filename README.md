@@ -89,7 +89,8 @@ streamlit run main.py
 ├── main.py               # Main chatbot script
 ├── requirements.txt      # List of required Python packages
 ├── .env                  # Environment variables (contains API key)
-├── streamlit/            # Folder with config and credential files for deployment
+├── config.toml           # config file for deployment on Streamlit Cloud
+├── config.toml           # credential files for deployment on Streamlit Cloud
 ```
 
 ---
